@@ -1,6 +1,6 @@
 # C HTTP Server
 
-![](sample.gif)
+![](douga.gif)
 
 ## what is this?
 This is a Simple HTTP Server program (and client) written in C.  
