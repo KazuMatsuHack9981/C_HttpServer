@@ -1,7 +1,5 @@
 # C HTTP Server
 
-![](douga.gif)
-
 ## what is this?
 This is a Simple HTTP Server program (and client) written in C.  
 Notice that this program is just made for educational purpose and not for the regular use.  
