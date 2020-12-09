@@ -13,10 +13,10 @@
 int get_filesize(int filefd);
 void send_header(int client_sockfd, char *type, int size);
 void redirect(int client_sockfd, char *path);
-void add(char **queries);
 
 // Lambda functions
 void getdate(void);
+void add(char **queries);
 
 
 void HandleTCPClient(int client_sockfd) {

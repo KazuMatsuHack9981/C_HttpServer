@@ -12,7 +12,6 @@ int get_filesize(int filefd) {
 	return filesize;
 }
 
-
 void send_header(int client_sockfd, char *type, int size) {
 	dprintf(client_sockfd, "HTTP/2.0 200 OK\r\n");
 	dprintf(client_sockfd, "Content-Length: %d\r\n", size);
