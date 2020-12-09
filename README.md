@@ -6,6 +6,7 @@
 This is a Simple HTTP Server program (and client) written in C.  
 Notice that this program is just made for educational purpose and not for the regular use.  
 
+<br/>
 
 ## how to use?
 just follow the steps below.  
@@ -17,6 +18,7 @@ just follow the steps below.
 Default port used in this server is "8081" but you can  
 change it by modifing `./serve.sh`.
 
+<br/>
 
 ## implemented feature
 - GET request for static html page
